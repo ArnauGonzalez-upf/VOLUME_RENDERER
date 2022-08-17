@@ -1,0 +1,93 @@
+﻿  material.cpp
+D:\Arnau\Documents\GitHub\AdvancedCG\src\framework.h(177,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\framework.h(177,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\framework.h(177,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\framework.h(177,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(27,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(117,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(298,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(330,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(407,13): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(492,83): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(492,67): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(492,51): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(492,35): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(493,83): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(493,67): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(493,51): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(493,35): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(494,83): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(494,67): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(494,51): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(494,35): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(529,19): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(534,69): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(535,68): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(536,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(540,20): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(545,71): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(546,68): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(554,69): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(558,19): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(562,71): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(567,19): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(571,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(572,71): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(576,18): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(581,68): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(582,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(583,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Arnau\Documents\GitHub\AdvancedCG\src\material.cpp(609,10): warning C4305: '=': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  3 of 2909 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewLinkProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDetachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniformMatrix4fv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquationSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewShaderSource" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewAttachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendFuncSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetAttribLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCompileShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDrawElementsBaseVertex" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindSampler" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+tritri.obj : warning LNK4099: no se encontró PDB 'vc142.pdb' con 'tritri.obj' o en 'D:\Arnau\Documents\GitHub\AdvancedCG\vc142.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+imgui_draw.obj : warning LNK4099: no se encontró PDB 'vc142.pdb' con 'imgui_draw.obj' o en 'D:\Arnau\Documents\GitHub\AdvancedCG\vc142.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SDL2main.lib(SDL_windows_main.obj) : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+glew32s.lib(glew.obj) : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'D:\Arnau\Documents\GitHub\AdvancedCG\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glew32s.lib(glew.obj) : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+LINK : warning LNK4020: un registro de tipo de 'd:\arnau\documents\github\advancedcg\visualstudio15\vs2015\release\vc142.pdb' está dañado; puede que algunos símbolos y tipos no sean accesibles desde el depurador
+  visualstudio.vcxproj -> D:\Arnau\Documents\GitHub\AdvancedCG\framework.exe
